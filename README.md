@@ -18,7 +18,7 @@ Sistema de agendamento e gestão para salões de beleza e estabelecimentos de es
 
 ## Conheça o projeto
 
-- [Acessar o Agend Cliente](https://agend-cliente-saas.onrender.com/)
+- [Acessar o Agend Cliente](https://www.agendcliente.com.br/)
 - [Conhecer meu portfólio](https://wandersondevweb.netlify.app/)
 
 O site é uma versão beta em funcionamento, não um ambiente de demonstração com dados fictícios. Não utilize dados reais de terceiros sem autorização.
